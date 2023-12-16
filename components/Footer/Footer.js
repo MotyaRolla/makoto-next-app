@@ -62,15 +62,13 @@ const Footer = () => {
                       className={styles.footerNavLink}>
                       ВКонтакте
                     </a>
+                    <a href="https://aaio.io/" target="_blank" rel="noreferrer" style="margin: 0 0 50px 0;">
+                      <img src="https://aaio.io/assets/svg/banners/big/dark-1.svg" title="Aaio - Сервис по приему онлайн платежей"/>
+                    </a>
                   </li>
                 </ul>
               </div>
             </div>
-            
-            <a href="https://aaio.io/" target="_blank" rel="noreferrer">
-              <img src="https://aaio.io/assets/svg/banners/big/white-1.svg" title="Aaio - Сервис по приему онлайн платежей"/>
-            </a>
-            
             <div className={styles.footerCopyright}>
               Copyright 2022 Makoto. All rights reserved.
             </div>
