@@ -52,7 +52,7 @@ export const getServerSideProps = async () => {
   });
 
   const data = await fetch(
-    "https://eu.mc-api.net/v3/server/ping/185.219.84.38:25660"
+    "https://eu.mc-api.net/v3/server/ping/vanilla.makotomc.ru"
   );
   const dataJson = await data.json();
 
