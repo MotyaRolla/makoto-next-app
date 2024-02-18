@@ -41,6 +41,13 @@ const navigation = [
     secondPath: "",
     anchor: false,
   },
+  {
+    id: 6,
+    title: "Лаунчер",
+    path: "https://night-world.org/",
+    secondPath: "",
+    anchor: false,
+  }
 ];
 
 const HeaderNew = () => {
