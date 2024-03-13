@@ -64,11 +64,10 @@ const Footer = () => {
                     </a>
                   </li>
                 </ul>
-                        <a href="https://mc-servera.net" title="сервера Майнкрафт">сервера Майнкрафт</a>
+              </div>
                         <a href="https://aaio.io/" target="_blank" rel="noreferrer">
                     <img src="https://aaio.io/assets/svg/banners/big/dark-1.svg" title="Aaio - Сервис по приему онлайн платежей"/>
                   </a>
-              </div>
             </div>
             <div className={styles.footerCopyright}>
               Copyright 2022 Makoto. All rights reserved.
