@@ -63,10 +63,11 @@ const Footer = () => {
                       ВКонтакте
                     </a>
                   </li>
-                  <a href="https://aaio.io/" target="_blank" rel="noreferrer">
+                </ul>
+                        <a href="https://mc-servera.net" title="сервера Майнкрафт">сервера Майнкрафт</a>
+                        <a href="https://aaio.io/" target="_blank" rel="noreferrer">
                     <img src="https://aaio.io/assets/svg/banners/big/dark-1.svg" title="Aaio - Сервис по приему онлайн платежей"/>
                   </a>
-                </ul>
               </div>
             </div>
             <div className={styles.footerCopyright}>
