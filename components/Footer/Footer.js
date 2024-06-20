@@ -3,6 +3,7 @@ import styles from "./Footer.module.scss";
 
 const Footer = () => {
   return (
+    <meta name="enot" content="ec4f7465" />
     <div className={styles.footer}>
       <div className="container">
         <div className={styles.footerWrapper}>
