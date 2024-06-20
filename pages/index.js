@@ -51,7 +51,7 @@ export const getServerSideProps = async () => {
     content_type: "eternalPlus",
   });
   const data = await fetch(
-    "https://eu.mc-api.net/v3/server/ping/mars.minecraft.rent:25572"
+    "https://eu.mc-api.net/v3/server/ping/vanilla.makotomc.ru"
   );
   const dataJson = await data.json();
 
