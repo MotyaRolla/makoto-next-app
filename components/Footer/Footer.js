@@ -3,7 +3,6 @@ import styles from "./Footer.module.scss";
 
 const Footer = () => {
   return (
-    <meta name="enot" content="ec4f7465" />
     <div className={styles.footer}>
       <div className="container">
         <div className={styles.footerWrapper}>
@@ -21,6 +20,7 @@ const Footer = () => {
 
             <div className={styles.footerNavWrapper}>
               <div className={styles.footerNavBlock}>
+  <meta name="enot" content="ec4f7465" />
                 <h4 className={styles.footerNavTitle}>Навигация</h4>
                 <ul className={styles.footerNavList}>
                   <li className={styles.footerNavItem}>
