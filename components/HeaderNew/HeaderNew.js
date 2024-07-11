@@ -22,7 +22,7 @@ const navigation = [
   {
     id: 3,
     title: "Правила",
-    path: "/rules",
+    path: "https://docs.makotomc.ru/pravila/obshie-pravila",
     secondPath: "",
     anchor: false,
   },
@@ -31,7 +31,7 @@ const navigation = [
     id: 4,
     title: "Вики",
     path: "https://docs.makotomc.ru/",
-    secondPath: "/navigator",
+    secondPath: "",
     anchor: false,
   },
   {
