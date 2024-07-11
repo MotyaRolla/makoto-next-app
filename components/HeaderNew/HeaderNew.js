@@ -30,7 +30,7 @@ const navigation = [
   {
     id: 4,
     title: "Вики",
-    path: "/wiki",
+    path: "https://docs.makotomc.ru/",
     secondPath: "/navigator",
     anchor: false,
   },
