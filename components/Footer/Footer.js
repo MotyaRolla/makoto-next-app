@@ -68,6 +68,7 @@ const Footer = () => {
               </div>
                         <a href="https://mc-monitor.org/server/18872" target="_blank">
                           <img src="https://mc-monitor.org/img/new-buttons/bagic-v4_06.jpg" alt="Сервера Майнкрафт на mc-monitor.org">
+                        </img>
                         </a>
             </div>
             <div className={styles.footerCopyright}>
