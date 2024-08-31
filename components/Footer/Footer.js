@@ -66,9 +66,7 @@ const Footer = () => {
                   </li>
                 </ul>
               </div>
-                        <a href="https://aaio.io/" target="_blank" rel="noreferrer">
-                    <img src="https://aaio.io/assets/svg/banners/big/dark-1.svg" title="Aaio - Сервис по приему онлайн платежей"/>
-                  </a>
+                        <a href="https://mc-monitor.org/server/18872" target="_blank"><img src="https://mc-monitor.org/img/new-buttons/bagic-v4_06.jpg" alt="Сервера Майнкрафт на mc-monitor.org"></a>
             </div>
             <div className={styles.footerCopyright}>
               Copyright 2022 Makoto. All rights reserved.
